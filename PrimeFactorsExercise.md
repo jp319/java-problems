@@ -32,7 +32,7 @@
 > 2. The user should have an option to be able to enter another number or end the program.
 > > **Tip:** _Follow the process_.
 
-   >**Example Output:**
+**Example Output:**
    >
    > ```shell
    > Please enter a number: 4
